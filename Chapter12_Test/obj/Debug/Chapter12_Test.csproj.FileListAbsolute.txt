@@ -1,0 +1,10 @@
+C:\Users\sawal\Desktop\The Ranken File\Locked In Homework Time\PasswordCracker\Chapter12_Test\bin\Debug\Chapter12_Test.exe.config
+C:\Users\sawal\Desktop\The Ranken File\Locked In Homework Time\PasswordCracker\Chapter12_Test\bin\Debug\Chapter12_Test.exe
+C:\Users\sawal\Desktop\The Ranken File\Locked In Homework Time\PasswordCracker\Chapter12_Test\bin\Debug\Chapter12_Test.pdb
+C:\Users\sawal\Desktop\The Ranken File\Locked In Homework Time\PasswordCracker\Chapter12_Test\obj\Debug\Chapter12_Test.csproj.AssemblyReference.cache
+C:\Users\sawal\Desktop\The Ranken File\Locked In Homework Time\PasswordCracker\Chapter12_Test\obj\Debug\Chapter12_Test.PasswordCracker.resources
+C:\Users\sawal\Desktop\The Ranken File\Locked In Homework Time\PasswordCracker\Chapter12_Test\obj\Debug\Chapter12_Test.Properties.Resources.resources
+C:\Users\sawal\Desktop\The Ranken File\Locked In Homework Time\PasswordCracker\Chapter12_Test\obj\Debug\Chapter12_Test.csproj.GenerateResource.cache
+C:\Users\sawal\Desktop\The Ranken File\Locked In Homework Time\PasswordCracker\Chapter12_Test\obj\Debug\Chapter12_Test.csproj.CoreCompileInputs.cache
+C:\Users\sawal\Desktop\The Ranken File\Locked In Homework Time\PasswordCracker\Chapter12_Test\obj\Debug\Chapter12_Test.exe
+C:\Users\sawal\Desktop\The Ranken File\Locked In Homework Time\PasswordCracker\Chapter12_Test\obj\Debug\Chapter12_Test.pdb
